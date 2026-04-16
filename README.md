@@ -10,7 +10,7 @@ Yu-Tube is a web-based video browsing application inspired by YouTube, designed 
 The application allows users to discover videos through an intuitive interface, offering features such as video search, playback, and basic content browsing. It integrates external video APIs to fetch real-time data, ensuring that users get up-to-date and relevant content.
 
 
-🚀 Key Features
+🚀 Key Features \
 🔍 Search videos instantly \
 ▶️ Watch videos directly within the app \
 📱 Responsive and user-friendly interface \
