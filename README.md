@@ -18,7 +18,7 @@ The application allows users to discover videos through an intuitive interface, 
 🎬 Browse trending or popular content \
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack \
 Frontend: HTML, CSS, JavaScript \
 Framework/Library: (add yours here if React/Vue/etc.) \
 API: YouTube Data API (or similar video API) \
